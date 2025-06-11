@@ -1,2 +1,2 @@
-# Intersemestral_2025-4_8424
+# Inter_FC_Copia
 Repositorio de Fisica Computacional (prueba)
